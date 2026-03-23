@@ -26,8 +26,11 @@ Recomanacions per adaptar les sessions de manera que tots els alumnes hi puguin 
 **[Butlletins informatius](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/4.Butlletins_Info)**
 Novetats del projecte, notícies dels socis i materials de difusió.
 
-**Avaluació i replicabilitat**
-Bones pràctiques, informes d'implementació i reflexions per inspirar futures experiències educatives.
+**[Bones pràctiques](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/5.Bones_Practiques)**
+Informe de bones pràctiques basat en l'experiència i els resultats del projecte.
+
+**[Llibre de curs complet](RMA_LessonBook_CAT.pdf)**
+El llibre de curs complet que reuneix tots els continguts de formació en un sol document.
 
 ---
 
