@@ -14,19 +14,19 @@ Robots Meet Arts proposa integrar pràctiques de pensament computacional en els 
 
 ## Contingut
 
-**[Mòduls de formació](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/1.Moduls_Formacio)**
+**[Mòduls de formació](1.Moduls_Formacio/)**
 L'itinerari complet de 6 mòduls adreçat als mestres de primària, que inclou els enfocaments pedagògics, les competències tècniques i les pràctiques inclusives.
 
-**[Fitxes pedagògiques](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/2.Plans_de_Curs_CA)**
+**[Fitxes pedagògiques](2.Plans_de_Curs/)**
 29 activitats a punt per fer servir: 8 sessions introductòries i 21 sessions disciplinàries repartides en 7 disciplines d'humanitats.
 
-**[Implementació inclusiva](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/3.Inclusio)**
+**[Implementació inclusiva](3.Inclusio/)**
 Recomanacions per adaptar les sessions de manera que tots els alumnes hi puguin participar plenament — tenint en compte el gènere, les diferències d'aprenentatge i la diversitat cultural.
 
-**[Butlletins informatius](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/4.Butlletins_Info)**
+**[Butlletins informatius](4.Butlletins_Info/)**
 Novetats del projecte, notícies dels socis i materials de difusió.
 
-**[Bones pràctiques](https://github.com/Robots-Meet-Arts/rma-catala/tree/main/5.Bones_Practiques)**
+**[Bones pràctiques](5.Bones_Practiques/)**
 Informe de bones pràctiques basat en l'experiència i els resultats del projecte.
 
 **[Llibre de curs complet](RMA_LessonBook_CAT.pdf)**
