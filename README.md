@@ -36,10 +36,10 @@ El llibre de curs complet que reuneix tots els continguts de formació en un sol
 
 ## Altres llengües
 
-- English: [rma-english](https://github.com/robotsmeetarts/rma-english)
-- Français: [rma-francais](https://github.com/robotsmeetarts/rma-francais)
-- Nederlands (België): [rma-dutch](https://github.com/robotsmeetarts/rma-dutch)
-- Ελληνικά: [rma-ellinika](https://github.com/robotsmeetarts/rma-ellinika)
+- English: [rma-english](https://github.com/Robots-Meet-Arts/rma-english)
+- Français: [rma-francais](https://github.com/Robots-Meet-Arts/rma-francais)
+- Nederlands (België): [rma-dutch](https://github.com/Robots-Meet-Arts/rma-dutch)
+- Ελληνικά: [rma-ellinika](https://github.com/Robots-Meet-Arts/rma-ellinika)
 
 ---
 
